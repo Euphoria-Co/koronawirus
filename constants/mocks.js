@@ -36,19 +36,13 @@ const products = [
     description:"Pomimo tego, że serwisy informacyjne poświęcają prawie całą swoją uwagę na tematy dotyczące epidemii koronawirusa, brakuje jednego, ale bardzo istotnego aspektu - głębszej analizy danych i prognozy dalszego rozwoju.",
     tags: ["polska", "koronawirus", "covid-19"],
     images: [
-      require("../assets/images/plants_1.jpg"),
+      
     ]
   }
 ];
 
 const explore = [
   // images
-  require("../assets/images/explore_1.jpg"),
-  require("../assets/images/explore_2.png"),
-  require("../assets/images/explore_3.png"),
-  require("../assets/images/explore_4.png"),
-  require("../assets/images/explore_5.png"),
-  require("../assets/images/explore_6.png")
 ];
 
 const profile = {
@@ -130,7 +124,7 @@ const virusInfos = [
 	{
 		id: "akapit9",
 		name: "Fakty i mity",
-    data: "<.</><div>Mit: Igor nie bije siostry, gdy ona siedzi na komputerze\n\nFakt: Igor bije siostre, gdy ona siedzi na komputerze.</div>\n",
+    data: "<.</><div>.</div>\n",
 		tag: ["Postawowe informacje"]
 	},
 
